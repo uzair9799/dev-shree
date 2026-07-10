@@ -1,0 +1,6 @@
+{
+  "name": "Dev Shree South Kitchen Invitation",
+  "description": "An interactive, premium grand opening invitation for Dev Shree South Kitchen, featuring high-fidelity ribbon cutting, red velvet curtains, and elegant transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
